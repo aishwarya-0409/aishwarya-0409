@@ -7,13 +7,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aishwarya Rangu</h1>
-<h3 align="center">Web & Android Developer 🚀</h3>
+<h3 align="center">Full Stack Developer |  Android Developer 🚀</h3>
 
 ---
 
 ### 👩‍💻 About Me
 - 🎓 CSE (Data Science) Student  
-- 💻 Passionate **Web & Android Developer**  
+- 💻 Passionate **Full Stack & Android Developer**  
 - 📱 Love building clean, user-friendly applications  
 - 🎮 Have basic experience in game development  
 - 🌱 Always learning and improving my development skills  
