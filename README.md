@@ -44,19 +44,31 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aishwarya-0409&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aishwarya-0409&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aishwarya-0409&layout=compact&theme=tokyonight" />
-</p>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=aishwarya-0409&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=aishwarya-0409&theme=tokyonight&hide_border=true&border_radius=10" />
+
+  <br/>
+
+  <img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aishwarya-0409&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💙 Thanks for visiting!
+
+  *Building, learning, and creating one commit at a time.*
+
+</div>
+
 
 ---
 
